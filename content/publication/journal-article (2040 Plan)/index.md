@@ -1,7 +1,7 @@
 ---
 title: "Upzoning and Single-Family Housing Prices: A (Very) Early Analysis of the Minneapolis 2040 Plan"
 authors:
-- Daniel Kuhlmann
+- admin
 date: "2021-02-07T00:00:00Z"
 doi: ""
 
