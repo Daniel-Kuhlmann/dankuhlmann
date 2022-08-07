@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Jounral of Planning Education and Research"
+publication_short: "JPER"
 
 abstract: Does the presence of blighted housing affect nearby property owner’s decision to maintain their units? Does demolishing these distressed houses increase maintenance investment? In this paper, I examine these questions by testing whether exposure to targeted demolitions of abandoned and distressed housing affects changes in the external condition of nearby houses. Using data from two waves of a property survey in Cleveland, OH, my models suggest that, compared to a control group of houses exposed to vacant housing, proximity to demolitions decrease the likelihood that a property’s condition deteriorated between 2015 and 2018 and increase the likelihood that it improved.
 

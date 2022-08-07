@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Journal of the American Planning Association"
+publication_short: "JAPA"
 
 abstract: In December 2018, the Minneapolis (MN) city council approved a new comprehensive plan that proposed eliminating single-family zoning restrictions throughout the city. In this project, I study the initial impact of this change on the sales prices of affected housing units. I estimate a series of difference-in-differences models comparing the sales price of houses within 3-km of the Minneapolis border in the year before and year after the city adopted the plan. I find that compared with similar unaffected properties in surrounding cities, the Minneapolis plan change was associated with a 3% and 5% increase in the price of affected housing units. In addition, there is some evidence that this price increase is due to the new development option it offers property owners. I find that the plan-related price increases are larger in inexpensive neighborhoods and for properties that are small relative to their immediate neighbors.
 

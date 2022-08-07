@@ -1,5 +1,5 @@
 ---
-title: "Working Paper - In Search of the Missing Middle: Historical Trends in and Contemporary Correlates of Small Multifamily Development."
+title: "Working Paper - In Search of the Missing Middle: Historical Trends in and Contemporary Correlates of Small Multifamily Development"
 authors:
 - admin
 - Seva Rodnyansky
