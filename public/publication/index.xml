@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Daniel Kuhlmann, Ph.D.</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Upzoning and Single-Family Housing Prices: A (Very) Early Analysis of the Minneapolis 2040 Plan</title>
+      <link>https://example.com/publication/journal-article-2040-plan/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article-2040-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coveting your neighbour’s house: understanding the positional nature of residential satisfaction</title>
+      <link>https://example.com/publication/journal-article-satisfaction/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article-satisfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixing Up After Tearing Down: The Impact of Demolitions on Residential Investment</title>
+      <link>https://example.com/publication/journal-article-land-bank/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article-land-bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Social and Fiscal Consequences of Urban Decline: Evidence from Large American Cities, 1980–2010</title>
+      <link>https://example.com/publication/journal-article-shriking/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article-shriking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
